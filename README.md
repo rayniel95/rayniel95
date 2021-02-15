@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rayniel95 and my name is Rainyel Ramos. I am a young computer scientist graduate in Havana University, Cuba. 
 - 👀 I’m interested in distributed systems, machine learning and blockchain technology.
-- 🌱 I’m currently learning blockchain development with Hyperledger Fabric and Ethereum.
+- 🌱 I’m currently working with blockchain development with Hyperledger Fabric and Ethereum.
 - 💞️ I’m looking to collaborate on interesting blockchain (machine learning) projects.
 - 📫 How to reach me: rainyel.ramos@gmail.com
 
