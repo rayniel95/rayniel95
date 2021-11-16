@@ -5,6 +5,9 @@
 - 📫 How to reach me: rainyel.ramos@gmail.com
 -  And you can take a look to my work: my [ResearchGate](https://researchgate.net/profile/Rainyel_Gonzalez) with some of my articles, [the video exposition of my undergraduate thesis project](https://www.youtube.com/channel/UCLfQBlFqyxWjXTiET5uYtKg/featured).
 
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=activity&username=rayniel95&labels=true"
+/>
 
 <!---
 rayniel95/rayniel95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
